@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodislav
-- 👀 I’m interested in creating a new age IT advisory company
-- 🌱 I’m currently learning how to build a business
+- 👀 I’m interested in developing my IT advisory company https://becoming.tech
+- 🌱 I’m currently learning how to build a sustainable business
 - 💞️ I’m looking to collaborate on this adventure
 - 📫 Reach me via linkedin, that's the easiest way
 
